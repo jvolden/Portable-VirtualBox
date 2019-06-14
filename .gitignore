@@ -1,4 +1,4 @@
 source/app64/**
 source/data/.VirtualBox/**
 source/data/**
-data/settings/settings.ini
+**/settings.ini
