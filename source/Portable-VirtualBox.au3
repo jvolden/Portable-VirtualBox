@@ -1,13 +1,14 @@
 ; Language       : multilanguage
 ; Author         : Michael Meyer (michaelm_007) et al.
 ; e-Mail         : email.address@gmx.de
-; License        : http://creativecommons.org/licenses/by-nc-sa/3.0/
-; Version        : 6.4.9.0
+; License        : http://creativecommons.org/licenses/by-nc-sa/4.0/
+; Version        : 6.4.9.1
 ; Download       : http://www.vbox.me
 ; Support        : http://www.win-lite.de/wbb/index.php?page=Board&boardID=153
+; Updated        : jvolden, Zlocorp
 
-#AutoIt3Wrapper_Res_Fileversion=6.4.9.0
-#AutoIt3Wrapper_Res_ProductVersion=6.4.9.0
+#AutoIt3Wrapper_Res_Fileversion=6.4.9.1
+#AutoIt3Wrapper_Res_ProductVersion=6.4.9.1
 #AutoIt3Wrapper_Icon=VirtualBox.ico
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_Compile_both=Y
@@ -99,6 +100,7 @@ If (FileExists (@ScriptDir&"\app32\virtualbox.exe") OR FileExists (@ScriptDir&"\
       Services('start')
       SetHomeDir('set')
 
+      SetHomeDir('set')
       SplashOff ()
 
       ; Where we finally run VirtualBox.exe

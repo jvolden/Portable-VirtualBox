@@ -1,4 +1,4 @@
-. : Portable VirtualBox : . 
+.:: Portable VirtualBox ::. 
 
 Description: Only start the Portable-VirtualBox.exe and all settings
              becomes automatically made. It must not be manually
@@ -70,8 +70,15 @@ Important: No files became of VirtualBox (https://www.virtualbox.org)
 Download and support:
 http://www.vbox.me/
 
+<<<<<<< HEAD
 Languages of Launcher: English, German, Portuguese, Spanish, French,
                        Italian, Russian, Ukrainian, Japanese
+=======
+Languages of Launcher: English, Russian
+
+
+====================================================
+>>>>>>> e8b6d045912a63fa6d078f654163442307919506
 
 Changelog of Starter:
 
