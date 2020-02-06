@@ -70,7 +70,11 @@ Important: No files became of VirtualBox (https://www.virtualbox.org)
 Download and support:
 http://www.vbox.me/
 
-Languages of Launcher: English, Russian
+Languages of Launcher: English, German, Portuguese, Spanish, French,
+                       Italian, Russian, Ukrainian, Japanese
+
+
+====================================================
 
 Changelog of Starter:
 
